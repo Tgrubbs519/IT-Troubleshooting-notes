@@ -1,2 +1,3 @@
-# IT-Troubleshooting-notes
-IT troubleshooting notes from my own experience.
+## Write-ups
+- [ThinkPad T14 Shutdown/Hibernation Lock Fix](./thinkpad-t14-shutdown-fix.md)
+
